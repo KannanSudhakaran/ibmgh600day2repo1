@@ -1,1 +1,1 @@
-# ibmgh600day2repo1
+Hello day2 preparing for exam !!
